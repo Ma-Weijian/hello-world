@@ -1,2 +1,4 @@
 # hello-world
-Being familiar with GitHub Platform
+
+Now, prepare my first edit to my hello-world project!
+
